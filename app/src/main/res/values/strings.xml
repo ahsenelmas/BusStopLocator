@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusStopLocater</string>
+    <string name="enter_bus_stop_name">Enter Bus Stop Name</string>
+    <string name="enter_stop_name">Enter stop name...</string>
+    <string name="find_nearby_stops_from_gps">Find Nearby Stops from GPS</string>
+    <string name="back_to_home_screen">Back to home screen</string>
+</resources>
